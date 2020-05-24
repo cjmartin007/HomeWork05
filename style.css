@@ -1,0 +1,21 @@
+body {
+    background-color: chartreuse;
+    margin-right: 200px;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+button {
+    text-align: center;
+    color: darkgreen;
+    font-size: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: rgb(98, 131, 194);
+    height: 120px;
+    width: 960px;
+}
+    
+
