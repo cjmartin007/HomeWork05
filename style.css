@@ -11,3 +11,6 @@ button :hover{
 
 }
 
+button :checked {
+    background-color: darkorchid;
+}
